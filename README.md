@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# made an app (call in react.js) live covid update app one for INDIA and one blow section for my STATE CHHATTISGARH
+
+# it is my first intraction project on react.js .
+# i used some css animation to it...look more interesting!
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
